@@ -4,6 +4,9 @@
 #Plugins
 /*/*/plugins
 
+#Node/Webpack
+/*/node_modules
+
 # iOS
 /*/*/platforms
 /*/*/platforms/ios/build/
