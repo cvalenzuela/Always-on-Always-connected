@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="create" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Someone|Something</name>
+    <name>Something|Someone</name>
     <description>
-        Ask Someone, Something
+        Ask Something to Someone
     </description>
     <author email="cvalenzuela@nyu.edu" href="mailto:cvalenzuela@nyu.edu">
         Cristobal Valenzuela
@@ -29,7 +29,7 @@
         <icon height="114" src="www/img/icon/icon@2x.png" width="114" />
         <icon height="29" src="www/img/icon/icon-small.png" width="29" />
         <icon height="58" src="www/img/icon/icon-small@2x.png" width="58" />
-
     </platform>
     <plugin name="cordova-plugin-whitelist" spec="1" />
+    <plugin name="cordova-plugin-splashscreen" spec="~4.0.1" />
 </widget>

@@ -5,7 +5,7 @@
         <f7-nav-left>
           <f7-link icon="icon-bars" open-panel="left"></f7-link>
         </f7-nav-left>
-        <f7-nav-center sliding><span>Someone</span>|Something</f7-nav-center>
+        <f7-nav-center sliding><span>Something</span>|Someone</f7-nav-center>
       </f7-navbar>
 
       <f7-pages>

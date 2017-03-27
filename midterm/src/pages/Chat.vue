@@ -44,11 +44,11 @@ export default {
     addMsj: function () {
       setTimeout(() => {
         this.messages.push({
-          name: 'Dan',
-          text: 'Nope, closed bc of the weather',
+          name: 'Dan - Historian',
+          text: 'A reasonalbe answer could be that when firetrucks where first built, each brigade wanted their rig stand out by being the cleanest, having the most brass, or being a regal color. Because red was the most expensive color, that is what color most crews chose to paint the pump. Other sources cite the tradition of painting fire engines red going back to the early 1920s',
           type: 'received'
         })
-      }, 3500)
+      }, 5500)
     },
     onClick: function () {
       console.log('message click')

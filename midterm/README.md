@@ -1,6 +1,6 @@
-# Someone | Something
+# Something | Someone
 
-Trying to build a human inspired search engine. Ask someone, something.
+Trying to build a human inspired search engine. Ask something to someone.
 
 Trying to make sense of information and not [Snippets](https://theoutline.com/post/1192/google-s-featured-snippets-are-worse-than-fake-news)
 
