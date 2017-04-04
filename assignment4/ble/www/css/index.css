@@ -1,0 +1,30 @@
+body{
+  margin:0px;
+  padding:0px;
+  background: gainsboro;
+  font-family: 'Helvetica', sans-serif;
+}
+
+h1{
+  font-weight: lighter;
+  font-size: 25px;
+  display: block;
+  margin: 50% 30% 0px 30%;
+}
+
+p{
+  margin: 0% 30% 0px 30%;
+}
+
+#inputs{
+  margin: 10% 40% 0px 40%;
+}
+
+input{
+  background: #eaeaea;
+  display: inline-block;
+  padding: 50px;
+  border: none;
+  margin: 10px;
+  text-align: center;
+}
